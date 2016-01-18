@@ -1,0 +1,25 @@
+{
+  "name": "smart-merge",
+  "version": "0.0.1",
+  "description": "Module for performing smart deep merges of JSON structures",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hscheckenbacher/smart-merge.git"
+  },
+  "keywords": [
+    "json",
+    "merge",
+    "deep",
+    "smart"
+  ],
+  "author": "Harald Scheckenbacher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hscheckenbacher/smart-merge/issues"
+  },
+  "homepage": "https://github.com/hscheckenbacher/smart-merge#readme"
+}
